@@ -4,7 +4,7 @@
 
     <groupId>com.dominikcebula.archetypes</groupId>
     <artifactId>java21-spring-boot3-web-archetype</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>maven-archetype</packaging>
 
     <name>java21-spring-boot3-web-archetype</name>
@@ -32,7 +32,7 @@
         <developerConnection>scm:git:git@github.com:dominikcebula/java21-spring-boot3-web-archetype.git
         </developerConnection>
         <url>https://github.com/dominikcebula/java21-spring-boot3-web-archetype</url>
-        <tag>java21-spring-boot3-web-archetype-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
