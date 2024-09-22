@@ -1,3 +1,5 @@
+[![CI Pipeline](https://github.com/dominikcebula/java21-spring-boot3-web-archetype/actions/workflows/maven.yml/badge.svg)](https://github.com/dominikcebula/java21-spring-boot3-web-archetype/actions/workflows/maven.yml)
+
 # Java 21 Spring Boot 3 Web Archetype
 
 ## Intro
